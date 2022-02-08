@@ -21,4 +21,4 @@ function toggleCartStatus() {
     }
 }
 
-//1.50.49 остановился https://www.youtube.com/watch?v=pIgyoL5FjgI&list=PLL4bdWIbYcxc5nKU4MGqYKJecT9SZKS9l&index=15&t=2083s
+
